@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7b32d48c292d3714a8615c05d587fa9a
+timeCreated: 1517314156
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pop Will Eat Itself
+  fontNames:
+  - Pop Will Eat Itself
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
